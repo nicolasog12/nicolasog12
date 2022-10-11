@@ -27,5 +27,13 @@
 - youtube: nicolasog12
 - i have a website: all-star-math.ml (which will soon be all-star.ml or .org)
 
+## collaborating on...
+- [3kh0.github.io](https://github.com/3kh0/3kh0.github.io)
+- collab with me! or i collab with you... contact me with the above info!
+
+## projects
+- all-star-unblocking - unblocking everything for all
+- my website
+- learning javascript
 
 ###### source code is available at [this link](https://nicolasog12.github.io/nicolasog12/README.md)
