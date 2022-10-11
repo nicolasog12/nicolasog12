@@ -8,7 +8,7 @@
 
 [![nicolasog12's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasog12)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![nicolasog12's GitHub Followers](https://img.shields.io/github/followers/nicolasog12?style=plastic)](https://img.shields.io/github/followers/nicolasog12?style=plastic)
+[![nicolasog12's GitHub Followers](https://img.shields.io/github/followers/nicolasog12?style=plastic)](https://img.shields.io/github/followers/nicolasog12?style=plastic) <- make this number go up   
 [![facts](https://img.shields.io/badge/nicolasog12-welcome%20to%20my%20profile-informational)](https://img.shields.io/badge/nicolasog12-welcome%20to%20my%20profile-informational)
 
 ## contact me
