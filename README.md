@@ -1,3 +1,4 @@
+[![top banner](https://storage.googleapis.com/pai-images/1bc7536867e54d8f8c3142e5b2dacfd0.png)]
 # Welcome to my profile
 
 [![nicolasog12 logo](https://i.ibb.co/PGQfWsk/Screenshot-2022-10-11-8-52-52-AM-removebg-preview-1.png)]
@@ -35,5 +36,8 @@
 - all-star-unblocking - unblocking everything for all
 - my website
 - learning javascript
+
+
+[![bottom banner](https://storage.googleapis.com/pai-images/cd6f1e3d99e24bc4a6b8298ea104fa22.png)
 
 ###### source code is available at [this link](https://nicolasog12.github.io/nicolasog12/README.md)
