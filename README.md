@@ -19,7 +19,7 @@
 - tiktok: nicolasog12
 - snapchat: (i dont use snapchat ew)
 - youtube: nicolasog12
-- i have a website: all-star-math.ml
+- i have a website: all-star-math.ml (which will soon be all-star.ml or .org)
 
 
 ###### source code is available at [this link](https://nicolasog12.github.io/nicolasog12/README.md)
