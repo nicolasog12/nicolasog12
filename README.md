@@ -1,4 +1,7 @@
 # Welcome to my profile
+
+[![nicolasog12 logo](https://i.ibb.co/PGQfWsk/Screenshot-2022-10-11-8-52-52-AM-removebg-preview-1.png)]
+
 ## about me:
 - i am really cool
 - i am a good html coder, somewhat good css coder, and also somewhat good at javascript
