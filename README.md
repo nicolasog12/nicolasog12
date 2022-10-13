@@ -10,10 +10,10 @@
 - monday-friday: 8:30AM - 2:00PM EST
 - weekend: varies
 
-[![nicolasog12's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasog12)](https://github.com/anuraghazra/github-readme-stats)
+[![nicolasog12's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasog12)](https://github.com/anuraghazra/github-readme-stats)]
 <br />
-[![nicolasog12's GitHub Followers](https://img.shields.io/github/followers/nicolasog12?style=plastic)](https://img.shields.io/github/followers/nicolasog12?style=plastic) <- make this number go up   
-[![facts](https://img.shields.io/badge/nicolasog12-welcome%20to%20my%20profile-informational)](https://img.shields.io/badge/nicolasog12-welcome%20to%20my%20profile-informational)
+[![nicolasog12's GitHub Followers](https://img.shields.io/github/followers/nicolasog12?style=plastic)] <- make this number go up   
+[![welcome sticker](https://img.shields.io/badge/nicolasog12-welcome%20to%20my%20profile-informational)]
 
 ## contact me
 ### by email:
@@ -38,6 +38,6 @@
 - learning javascript
 
 
-[![bottom banner](https://storage.googleapis.com/pai-images/cd6f1e3d99e24bc4a6b8298ea104fa22.png)
+[![bottom banner](https://storage.googleapis.com/pai-images/cd6f1e3d99e24bc4a6b8298ea104fa22.png)]
 
 ###### source code is available at [this link](https://nicolasog12.github.io/nicolasog12/README.md)
