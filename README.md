@@ -1,4 +1,4 @@
-[![top banner](https://storage.googleapis.com/pai-images/1bc7536867e54d8f8c3142e5b2dacfd0.png)]
+[!top banner](https://storage.googleapis.com/pai-images/1bc7536867e54d8f8c3142e5b2dacfd0.png)]
 # Welcome to my profile
 
 [![nicolasog12 logo](https://i.ibb.co/PGQfWsk/Screenshot-2022-10-11-8-52-52-AM-removebg-preview-1.png)]
