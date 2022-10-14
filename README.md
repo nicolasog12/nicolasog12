@@ -1,3 +1,4 @@
+<body style="text-align: center">
 [![top banner](https://storage.googleapis.com/pai-images/1bc7536867e54d8f8c3142e5b2dacfd0.png)]
 # Welcome to my profile
 
@@ -42,3 +43,4 @@
 [![bottom banner](https://storage.googleapis.com/pai-images/cd6f1e3d99e24bc4a6b8298ea104fa22.png)]
 
 ###### source code is available at [this link](https://nicolasog12.github.io/nicolasog12/README.md)
+</body>
