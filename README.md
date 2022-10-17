@@ -5,7 +5,8 @@
 
 ## about me:
 - i am really cool
-- i am a good html coder, somewhat good css coder, and also somewhat good at javascript
+- i am a good html coder, good css coder, and also somewhat good at javascript
+- im a pround northern kentuckian and also live in my house
 ### when im online
 - monday-friday: 8:30AM - 2:00PM EST
 - weekend: varies
