@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi;i+am+a+coder;i+can+code...;html;css;and+im+learning+js;thats+all;so+yeah;bye;go..+click+something;bye;restarting+%3A%3C)](https://git.io/typing-svg)
 [![top banner](https://storage.googleapis.com/pai-images/1bc7536867e54d8f8c3142e5b2dacfd0.png)]
 # Welcome to my profile
 
