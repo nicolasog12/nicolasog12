@@ -36,8 +36,8 @@
 ## projects
 - all-star-unblocking - unblocking everything for all
 - my website
-- NEW! Copy Paste Dump
 - learning javascript
+- learning _spAaAAaaAAaAaAaaAaANniiIiiSsSSSsSHHhHH_
 
 
 [![bottom banner](https://storage.googleapis.com/pai-images/cd6f1e3d99e24bc4a6b8298ea104fa22.png)]
